@@ -9,7 +9,7 @@ const config = {
   cloudIdentifier: '${env:CLOUD_IDENTIFIER}',
   env: {
     development: {
-      initialProjectKey: 'my-project-key',
+      initialProjectKey: 'pooch-test-gcp',
     },
     production: {
       applicationId: '${env:CUSTOM_APPLICATION_ID}',
