@@ -11,7 +11,7 @@ This is the `starter` template to develop [connect applications](https://marketp
 
 Use `create-connect-app` cli with `starter` as `template` value to download this template repository to build the integration application , folder structure needs to be followed to ensure certification & deployment from commercetools connect team as stated [here](https://github.com/commercetools/connect-application-kit#readme) 
 
-## Architecture principles for building an connect application 
+## Architecture principles for building an connect application 2
 
 * Connector solution should be lightweight in nature
 * Connector solutions should follow test driven development. Unit , Integration (& E2E) tests should be included and successfully passed to be used
