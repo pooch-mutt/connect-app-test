@@ -1,7 +1,7 @@
 import 'dotenv/config';
 // Import logger
 import { logger } from './utils/logger.utils.js';
-import app from './app';
+import app from './app.js';
 
 const PORT = 8080;
 
